@@ -1,0 +1,6 @@
+﻿  Source2.cpp
+  Source1.cpp
+  Generating Code...
+Source1.obj : error LNK2005: _main already defined in Source.obj
+Source2.obj : error LNK2005: _main already defined in Source.obj
+c:\users\fall2017\documents\visual studio 2015\Projects\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found
